@@ -52,85 +52,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: bird
+//  action 1: the bird flies
+bird.fly();
+//  action 2: the bird chirps
+bird.chirp();
+//  action 3: the bird hunts
+bird.hunt();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: robot
+//  action 1: the robot moves forwards
+robot.moveForward();
+//  action 2: the robot moves backwards
+robot.moveBackward();
+//  action 3: the robot fires a weapon
+robot.fireWeapon();
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: radio knob
+//  action 1: a radio knob switches on the device
+radioKnob.switchOn();
+//  action 2: a radio knob sets the frequency
+radioKnob.setFrequency();
+//  action 3: a radio knob sets the volume
+radioKnob.setVolume();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: ball
+//  action 1: the ball rolls
+ball.roll();
+//  action 2: the ball bounces
+ball.bounce();
+//  action 3: the ball hits an object
+ball.hitObject();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: calculator
+//  action 1: the calculator performs addition
+calculator.add();
+//  action 2: the calculator performs substraction
+calculator.substract();
+//  action 3: the calculator performs multiplication
+calculator.multiply();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: plant
+//  action 1: the plant grows
+plant.grow();
+//  action 2: the plant dies
+plant.die();
+//  action 3: the plant photosynthesizes
+plant.photosynthesize();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: snake
+//  action 1: the snake crawls
+snake.crawl();
+//  action 2: the snake swims
+snake.swim();
+//  action 3: the snake climbs a tree
+snake.climbTree();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:ghost
+//  action 1: the ghost goes through walls
+ghost.goThroughWall();
+//  action 2: the ghost steals items
+ghost.stealItem();
+//  action 3: the ghost spooks
+ghost.spook();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: chicken
+//  action 1: the chicken lays eggs
+chicken.layEgg();
+//  action 2: the chicken runs
+chicken.run();
+//  action 3: the chicken clucks
+chicken.cluck();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: audio player
+//  action 1: the player plays music
+audioPlayer.play();
+//  action 2: the player stops music
+audioPlayer.stop();
+//  action 3: the player shuffles a playlist
+audioPlayer.shufflePlaylist();
 
 
 #endif

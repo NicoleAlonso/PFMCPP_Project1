@@ -108,13 +108,13 @@ snake.swim();
 //  action 3: the snake climbs a tree
 snake.climbTree();
 //  8)
-//  Noun:ghost
-//  action 1: the ghost goes through walls
-ghost.goThroughWall();
-//  action 2: the ghost steals items
-ghost.stealItem();
-//  action 3: the ghost spooks
-ghost.spook();
+//  Noun: remote control
+//  action 1: the remote unit receives a signal
+remoteControl.receiveSignal();
+//  action 2: the remote unit transmits a signal
+remoteControl.transmitSignal();
+//  action 3: the remote unit processes a signal
+remoteControl.processSignal();
 //  9)
 //  Noun: chicken
 //  action 1: the chicken lays eggs
